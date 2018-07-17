@@ -1,4 +1,4 @@
 <?php
-header('Location: https://central.entando.com');
+header('Location: https://central.entando.com/');
 exit;
 ?>
